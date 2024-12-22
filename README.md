@@ -16,7 +16,7 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/LidyaGetachew/LidyaGetachew/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img src="https://github.com/LidyaGetachew/LidyaGetachew/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- <img src="https://github.com/LidyaGetachew/LidyaGetachew/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms);
 - <img src="https://github.com/LidyaGetachew/LidyaGetachew/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/LidyaGetachew/LidyaGetachew/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: lidyagetachew6@gmail.com;
 - <img src="https://github.com/LidyaGetachew/LidyaGetachew/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://github.com/LidyaGetachew/LidyaGetachew/blob/main/resume.pdf).
