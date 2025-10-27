@@ -3,7 +3,7 @@
 ### Full-Stack Software Engineer & Technical Writer
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lidya-getachew-b82a78223)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lidya-getachew.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lidyagetachew6@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/getachewlidya4/)
 
