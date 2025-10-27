@@ -1,112 +1,85 @@
-### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Lidya Getachew</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hello, I'm Lidya Getachew
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lidya-getachew-b82a78223)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/getachewlidya4/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Lidya_Getachew)
+### Full-Stack Software Engineer & Technical Writer
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Lidya.Lidya)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lidya-getachew-b82a78223)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lidyagetachew6@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/getachewlidya4/)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking .
+## 🚀 About Me
 
-As a software developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+I'm a passionate full-stack developer with expertise in building scalable web applications and robust backend systems. I thrive on transforming complex problems into elegant, efficient solutions that deliver exceptional user experiences.
 
-<img align="right" alt="GIF" src="https://github.com/LidyaGetachew/LidyaGetachew/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+**What drives me:**
+- 🔭 **Building Impactful Solutions** - Creating software that solves real-world problems
+- 💡 **Clean Architecture** - Writing maintainable, scalable, and well-documented code
+- 🚀 **Performance Excellence** - Optimizing applications for speed and efficiency
+- 📚 **Continuous Learning** - Staying current with emerging technologies and best practices
+
+## 🛠 Technical Expertise
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
+
+### **Backend & Databases**
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### **Tools & Platforms**
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📈 GitHub Analytics
+
+<div align="center">
   
+  <a href="https://github.com/LidyaGetachew">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LidyaGetachew&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_title=false" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LidyaGetachew&theme=radical&hide_border=true&layout=compact&langs_count=8&hide_title=false" />
+  </a>
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=LidyaGetachew&theme=radical&hide_border=true)
+  
+</div>
 
-**Talking about Personal Stuffs:**
+## 🎯 Currently Focusing On
 
-- <img src="https://github.com/LidyaGetachew/LidyaGetachew/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img src="https://github.com/LidyaGetachew/LidyaGetachew/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms);
-- <img src="https://github.com/LidyaGetachew/LidyaGetachew/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/LidyaGetachew/LidyaGetachew/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: lidyagetachew6@gmail.com;
-- <img src="https://github.com/LidyaGetachew/LidyaGetachew/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://github.com/LidyaGetachew/LidyaGetachew/blob/main/resume.pdf).
+- **🔬 Advanced System Design** - Building scalable, distributed systems
+- **⚡ Performance Optimization** - Enhancing application speed and efficiency
+- **📱 Mobile Development** - Expanding into cross-platform mobile solutions
+- **☁️ Cloud Technologies** - Mastering AWS and cloud architecture patterns
 
-</br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- C# -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <!-- ASP.NET Core -->
-  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="aspnet" width="40" height="40"/> 
-  </a>
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-   <!-- Vue.js -->
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
-  </a>
-  <!-- Redux -->
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <!-- Kotlin -->
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-   <!-- SQL Server -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/> 
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <!-- Material UI -->
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/> 
-  </a>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-  <!-- PHP -->
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-    <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-</p>
+## 💼 Professional Highlights
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
+- **Full-Stack Development** - Expertise in end-to-end application development
+- **Database Design** - Creating efficient, normalized database architectures
+- **API Development** - Building RESTful and GraphQL APIs
+- **Code Quality** - Implementing testing, documentation, and best practices
 
-```txt
-No activity tracked
-```
+## 📫 Let's Connect
 
-<!--END_SECTION:waka-->
+I'm always open to discussing new opportunities, collaborating on interesting projects, or connecting with fellow developers.
 
+- **📧 Email**: [lidyagetachew6@gmail.com](mailto:lidyagetachew6@gmail.com)
+- **💼 LinkedIn**: [Lidya Getachew](https://linkedin.com/in/lidya-getachew-b82a78223)
+- **📝 Portfolio**: [View My Work](https://lidya-getachew.vercel.app/)
 
-📈 **My GitHub Stats:**
+---
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LidyaGetachew&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LidyaGetachew&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+<div align="center">
+  
+  ⚡ **Fun Fact**: I believe the best code is not just functional, but also readable and maintainable!
+  
+  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=LidyaGetachew.LidyaGetachew)
+  
+</div>
